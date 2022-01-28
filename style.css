@@ -1,0 +1,42 @@
+.copy_right_footer{
+    color: rgb(0, 0, 0);
+    bottom: 0 ;
+    position: fixed;
+    background-color: rgb(236, 191, 139);
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+   
+    line-height: 3;
+}
+
+body{
+
+    font-family: Comforter;
+    background: cornsilk;
+}
+
+.header_div{
+
+    background: cyan;
+    color: darkcyan;
+}
+
+.header_div p{
+
+    font-family: sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+
+    font-family: sans-serif;
+    margin-top: 20px ;
+    width: 120px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
